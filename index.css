@@ -1,0 +1,33 @@
+.capture-decran-2023-10-14-a,
+.capture-decran-2023-10-14-a1 {
+  position: absolute;
+  top: 1753px;
+  left: 0;
+  width: 380px;
+  height: 558.08px;
+  object-fit: cover;
+}
+.capture-decran-2023-10-14-a1 {
+  top: 1122px;
+  height: 579.54px;
+}
+.capture-decran-2023-10-14-a2,
+.capture-decran-2023-10-14-a3 {
+  position: absolute;
+  top: 447px;
+  left: 0;
+  width: 380px;
+  height: 612.13px;
+  object-fit: cover;
+}
+.capture-decran-2023-10-14-a3 {
+  top: 0;
+  height: 404.64px;
+}
+.capture-decran-2023-10-14-a-parent {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 2311px;
+  overflow: hidden;
+}
